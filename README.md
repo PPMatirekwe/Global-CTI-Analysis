@@ -1,6 +1,6 @@
 # Cyber Threat Analysis using CISSM and Honeypot Data
 
-This repository contains a Streamlit application that merges and analyzes cyber threat data from the **CISSM Cyber Events Dataset** and **Honeypot IOC Dataset**. It provides tools for analyzing cyberattacks, attack types, and geographical distributions using various statistical models.
+This repository contains a Streamlit application developed as part of a Computer Science honours thesis that merges and analyzes cyber threat data from the **CISSM Cyber Events Dataset** and **Honeypot IOC Dataset**. It provides tools for analyzing cyberattacks, attack types, and geographical distributions using various statistical models.
 
 ## Pages Overview
 
